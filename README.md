@@ -1,6 +1,7 @@
 # manufacturer-website-client-side-siambd
 ###  Livesite link: https://islams-tools-shop.web.app
-### Server side link: https://github.com/programming-hero-web-course1/manufacturer-website-server-side-siambd
+### Client side link: https://github.com/programming-hero-web-course1/manufacturer-website-client-side-siambd
+### server side link : https://github.com/programming-hero-web-course1/manufacturer-website-server-side-siambd
 ## features and functionality: 
  features and functionality of this project:
 * Developed all pages with responsive & require functionalities
